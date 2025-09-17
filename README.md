@@ -46,11 +46,11 @@ In the project, several tools and techniques were used to analyze the Yelp datas
 # EDA
 
 1. Distribution of Yelp Businesses by Category
-<img src = "Images/Distribution of Yelp Businesses by Category.png">
+<img src = "images/Distribution of Yelp Businesses by Category.png">
 2. Distribution of Ratings
-<img src = "Images/Distribution of Ratings.png">
+<img src = "images/Distribution of Ratings.png">
 3. Top 20 organizations count by city
-<img src = "Images/Top 20.png">
+<img src = "images/Top 20.png">
 
 # Clustering analysis
 # Rating vs. Number of Reviews
@@ -61,7 +61,7 @@ Cluster 1 Center: [Rating: 4.06, Number of Reviews: 2314.81]
 
 Cluster 2 Center: [Rating: 3.98, Number of Reviews: 523.50]
 
-<img src = "Images/Ratings vs Reviews.png">
+<img src = "images/Ratings vs Reviews.png">
 
 # Conclusion
 
